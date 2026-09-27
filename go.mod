@@ -1,4 +1,4 @@
-module github.com/ananthb/shakthisangitasabha.com
+module github.com/calculon-tech/shakthisangitasabha.com
 
 go 1.25.5
 

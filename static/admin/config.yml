@@ -3,7 +3,7 @@
 # to main.
 backend:
   name: gitea
-  repo: ananthb/shakthisangitasabha.com
+  repo: calculon-tech/shakthisangitasabha.com
   branch: main
   base_url: https://calculon.tech
   api_root: https://calculon.tech/api/v1
